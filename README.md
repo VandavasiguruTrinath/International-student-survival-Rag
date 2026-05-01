@@ -92,3 +92,42 @@ ollama run phi
 
 ###How to Run
 python main.py
+
+
+---
+
+## 📈 Features
+
+- Context-aware answering system  
+- Reduced hallucination  
+- Multi-model comparison  
+- Real-world dataset  
+
+---
+
+## ⚠️ Limitations
+
+- Small dataset  
+- Manual evaluation  
+- Retrieval limitations  
+
+---
+
+## 🔮 Future Work
+
+- Improve retrieval accuracy  
+- Expand dataset  
+- Add UI interface  
+
+---
+
+## 👨‍💻 Authors
+
+- Trinath Vandavasi Guru  
+- Sai Venkat Gurramkonda  
+
+---
+
+## 📄 License
+
+This project is for academic use only.
