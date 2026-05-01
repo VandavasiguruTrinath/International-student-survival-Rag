@@ -119,7 +119,7 @@ python main.py
 - Expand dataset  
 - Add UI interface  
 
----
+------
 
 ## 👨‍💻 Authors
 
